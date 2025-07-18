@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp"
+    android:background="?android:attr/selectableItemBackground"
+    android:gravity="center_vertical">
+
+    
+    <TextView
+        android:id="@+id/habitTitleTextView"
+        android:layout_width="219dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/checkHabitButton"
+        android:layout_width="38dp"
+        android:layout_height="38dp"
+        android:background="@drawable/rounded_check_button"
+        android:contentDescription="@string/check_habit"
+        android:src="@drawable/ic_check"
+        android:scaleType="centerInside"
+        android:padding="8dp" />
+
+</LinearLayout>

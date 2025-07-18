@@ -1,0 +1,10 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Día actual -->
+    <item android:drawable="@color/yellow" android:state_selected="true" />
+
+    <!-- Día completado -->
+    <item android:drawable="@color/green" android:state_enabled="true" />
+
+    <!-- Día normal  -->
+    <item android:drawable="@android:color/transparent" />
+</selector>

@@ -1,0 +1,72 @@
+<resources>
+
+    <string name="app_name">Habitos App</string>
+
+
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+
+
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrar</string>
+    <string name="google_sign_in">Iniciar con Google</string>
+    <string name="records_button">Records</string>
+    <string name="create_habit_button">Crear hábito</string>
+    <string name="settings_button">Configuración</string>
+    <string name="back_button">Volver</string>
+    <string name="previous_month">Mes Anterior</string>
+    <string name="next_month">Mes Siguiente</string>
+
+
+    <string name="default_web_client_id">TU_CLIENT_ID_DE_Firebase</string>
+
+
+    <string name="habit_title">Tus hábitos</string>
+
+
+    <string name="habit_list_title">Lista de hábitos</string>
+
+
+    <string name="settings_description">Abrir configuraciones</string>
+
+
+    <string name="error_email_required">El correo electrónico es obligatorio</string>
+    <string name="error_password_required">La contraseña es obligatoria</string>
+    <string name="error_password_length">La contraseña debe tener al menos 6 caracteres</string>
+
+
+    <string name="login_successful">Inicio de sesión exitoso</string>
+    <string name="login_failed">Error en el inicio de sesión</string>
+    <string name="registration_successful">Registro exitoso. Verifica tu correo electrónico.</string>
+    <string name="registration_failed">Error en el registro</string>
+
+
+    <string name="habit_icon_description">Icono del hábito</string>
+    <string name="calendar_day">Día del calendario</string>
+
+
+    <string name="create_habit_title">Crea un hábito</string>
+    <string name="save_button">Guardar</string>
+    <string name="select_days_title">Selecciona los días</string>
+    <string name="habit_amount_hint">1 por día</string>
+    <string name="reminder_text">Recordarme a las</string>
+
+
+    <string name="previous_month_symbol">&lt;</string>
+    <string name="next_month_symbol">&gt;</string>
+    <string name="statistics_title">RÉCORDS</string>
+    <string name="current_streak">Racha actual</string>
+    <string name="longest_streak">Racha más larga</string>
+    <string name="completion_percentage">Porcentaje completado</string>
+    <string name="weekly_performance">Rendimiento semanal</string>
+    <string name="check_habit">Marcar hábito como realizado</string>
+
+
+    <string name="day_monday">L</string>
+    <string name="day_tuesday">M</string>
+    <string name="day_wednesday">X</string>
+    <string name="day_thursday">J</string>
+    <string name="day_friday">V</string>
+    <string name="day_saturday">S</string>
+    <string name="day_sunday">D</string>
+</resources>

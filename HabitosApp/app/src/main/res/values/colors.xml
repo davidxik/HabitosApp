@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue2">#007BFF</color>
+    <color name="white2">#FFFFFF</color>
+    <color name="blue">#007BFF</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#4CAF50</color>
+    <color name="gray">#BDBDBD</color>
+    <color name="yellow">#FFEB3B</color>
+
+
+    <color name="selectedButtonColor">#007BFF</color>
+    <color name="deselectedButtonColor">#87CEEB</color>
+
+
+</resources>

@@ -1,1 +1,1 @@
-Pro yecto final de grado superior de desarrollo de aplicaciones multiplataforma
+Proyecto final de grado superior de desarrollo de aplicaciones multiplataforma
